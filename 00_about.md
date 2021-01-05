@@ -4,7 +4,7 @@
 
 guizero 是一个创造简单图形用户界面(GUI)的python3 库
 
-![请看看使用guizero你能做些什么有趣的东西](https://image.csmicrobit.club/guizero/000.jpg)
+![请看看使用guizero你能做些什么有趣的东西](https://image.csmicrobit.club/guizero/00_00.jpg)
 
 ### guizero的目标
 
