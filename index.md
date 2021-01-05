@@ -1,4 +1,4 @@
-## Welcome to pythogui
+## Welcome to python gui
 
 
 - [关于](https://github.com/envisioncheng/pythongui/blob/main/00_about.md)
