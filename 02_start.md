@@ -34,7 +34,7 @@ app = App(title="Hello world")
 message = Text(app, text="Welcome to the Hello world app!")
 app.display()
 ```
-![Hello world](images/hello-world.png)
+![Hello world](https://image.csmicrobit.club/guizero/02_00.png)
 
 看一看`Text`文本组件的更多详情:
 
@@ -42,8 +42,8 @@ app.display()
 message = Text(app, text="Welcome to the Hello world app!")
 ```
 
-- `message =` - `Text`对象有一个名字,就好像变量.
-- `Text` - 一个*对象*创造一个些文字要界面.
+- `message` - `Text`对象有一个名字,就好像变量.
+- `Text` - 一个*对象*创造一些文字要界面.
 - `app` – 告知`Text`的容器. 大多分情下你的组件将居住在app里边.
 - `text="Welcome to the Hello world app!"` - 显示的文本
 
