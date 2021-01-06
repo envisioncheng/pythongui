@@ -86,8 +86,7 @@ guizero是为初学者快速且容易创造图形界面程序而设计的
 
 1. 打开终端
 2. 安装 `tkinter` 使用发行版的包管理工具, e.g. `sudo apt install python3-tk`
-3. 安装 guizero 使用 pip 输入 `pip3 install guizero` or `sudo pip3 install guizero` if you don't have superuser rights
-
+3. 安装 guizero 使用 pip 输入 `pip3 install guizero` 如果没有超级管理员的权限需输入 `sudo pip3 install guizero`
     ![linux pip install](https://image.csmicrobit.club/guizero/01_09.gif)
 
 **Note:** 如果你用Debian, 你也可以选择通过apt安装guzero
