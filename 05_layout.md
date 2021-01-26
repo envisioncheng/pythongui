@@ -253,6 +253,6 @@ app.display()
 
 **提示 :** 当创造一个界面你可能发现,先在纸上设计会容勿很多, 注意你的盒子将被放置的位置.
 
-![hand drawn gui](https://image.csmicrobit.club/guizero/05_14.png)
+![hand drawn gui](https://image.csmicrobit.club/guizero/05_14.jpg)
 
 不幸的是,但guizero不支持邮寄给你自己，也不支持用锤子砸它.
