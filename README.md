@@ -10,3 +10,5 @@ Learn  creating simple GUIs by python
 1. [弹出窗](https://envisioncheng.github.io/pythongui/06_alerts)
 1. [尺寸](https://envisioncheng.github.io/pythongui/07_size)
 1. [颜色](https://envisioncheng.github.io/pythongui/08_colors)
+1. [图像](https://envisioncheng.github.io/pythongui/09_size)
+1. [循环和睡眠](https://envisioncheng.github.io/pythongui/10_images)
