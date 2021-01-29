@@ -12,4 +12,5 @@ Learn  creating simple GUIs by python
 1. [颜色](https://envisioncheng.github.io/pythongui/08_colors)
 1. [图像](https://envisioncheng.github.io/pythongui/09_images)
 1. [循环和睡眠](https://envisioncheng.github.io/pythongui/10_blocking)
-1. [循环和睡眠](https://envisioncheng.github.io/pythongui/11_usingtk)
+1. [使用tkinter](https://envisioncheng.github.io/pythongui/11_usingtk)
+1. [使用帮助](https://envisioncheng.github.io/pythongui/12_gettinghelp)
